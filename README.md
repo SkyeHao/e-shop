@@ -45,42 +45,41 @@
 
 2. 用户主页
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/asasdfsadfdsafsadfasdfsadf1.png" alt="asasdfsadfdsafsadfasdfsadf1" style="zoom: 50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/asasdfsadfdsafsadfasdfsadf1.png" alt="asasdfsadfdsafsadfasdfsadf1" style="zoom: 25%;" />
 
 3. 商品分类界面
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/sh's'd'f'g'h'd's'f'h's'd'f'h'd'f'sh.png" alt="sh's'd'f'g'h'd's'f'h's'd'f'h'd'f'sh" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/sh's'd'f'g'h'd's'f'h's'd'f'h'd'f'sh.png" alt="sh's'd'f'g'h'd's'f'h's'd'f'h'd'f'sh" style="zoom: 25%;" />
 
 4. 商品搜索结果
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/fdasfdasfasdffadasdfasfasf.png" alt="fdasfdasfasdffadasdfasfasf" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/fdasfdasfasdffadasdfasfasf.png" alt="fdasfdasfasdffadasdfasfasf" style="zoom: 25%;" />
 
 5. 商品详情页
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/fdasfdasfasfsadfsadfsadfsadfsadfdas.png" alt="fdasfdasfasfsadfsadfsadfsadfsadfdas" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/fdasfdasfasfsadfsadfsadfsadfsadfdas.png" alt="fdasfdasfasfsadfsadfsadfsadfsadfdas" style="zoom: 25%;" />
 
 6. 商品推荐页
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/bxcvbrbrwsth.png" alt="bxcvbrbrwsth" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/bxcvbrbrwsth.png" alt="bxcvbrbrwsth" style="zoom: 25%;" />
 
 7. 商品SKU
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/vbzcxvbxcvberth.png" alt="vbzcxvbxcvberth" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/vbzcxvbxcvberth.png" alt="vbzcxvbxcvberth" style="zoom: 25%;" />
 
 8. 购物车
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/g'f'h'j'f'g'd'j'g'f'h'j'g'f'd'h'j'h'g.png" alt="g'f'h'j'f'g'd'j'g'f'h'j'g'f'd'h'j'h'g" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/g'f'h'j'f'g'd'j'g'f'h'j'g'f'd'h'j'h'g.png" alt="g'f'h'j'f'g'd'j'g'f'h'j'g'f'd'h'j'h'g" style="zoom: 25%;" />
 
 9. 收货地址管理
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/zxvbcaedfgsadfhg.png" alt="zxvbcaedfgsadfhg" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/zxvbcaedfgsadfhg.png" alt="zxvbcaedfgsadfhg" style="zoom: 25%;" />
 
 10. 订单管理
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/urtyujtjfghjfgj.png" alt="urtyujtjfghjfgj" style="zoom:50%;" />
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/urtyujtjfghjfgj.png" alt="urtyujtjfghjfgj" style="zoom: 25%;" />
 
 11. 生成支付宝收款码
 
-<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/myutjmhrfgmdghmn.png" alt="myutjmhrfgmdghmn" style="zoom:50%;" />
-
+<img src="https://gitee.com/stitch618/StitchPicGo/raw/master/pic/myutjmhrfgmdghmn.png" alt="myutjmhrfgmdghmn" style="zoom: 25%;" />
 
